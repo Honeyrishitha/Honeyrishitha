@@ -1,4 +1,4 @@
-# Hey! I'm Raja👋
+# Hey! I'm Honey Rishitha👋
 
 <p>
   <em>
@@ -12,16 +12,15 @@
 - 👨🏽‍💻 I like open-sourcing the projects and websites I make
 - 🌱 You can find me learning new stuff, especially sharing interesting new tools and technologies
 - 💬 I like to talk about interesting stuff, just drop me a message! 😉
-- ⚡ Fun fact: I love the idea of AI taking over the planet (in a good way course)
 
-[![GitHub](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white&style=for-the-badge)](https://github.com/Raja1704/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raja1704/)
+[![GitHub](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white&style=for-the-badge)](https://github.com/Honeyrishitha/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yandra-honey-rishitha/)
 
 
 ## **Go-to Languages and Tools**
 
 </br>
 
-![My Skills](https://skillicons.dev/icons?i=ts,js,rust,html,css,tailwind,react,python,nodejs,mysql,nextjs,vim,vscode,c,cpp,java,docker,git,github,aws,bootstrap,vercel,markdown,netlify,expressjs,mongodb,go,figma,pps&perline=14)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,python,nodejs,sql,nextjs,vscode,c,cpp,java,github,aws,bootstrap,netflix,mongodb,figma,pps&perline=14)
 
 <hr />
