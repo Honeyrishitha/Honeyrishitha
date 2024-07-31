@@ -21,6 +21,6 @@
 
 </br>
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,python,nodejs,sql,nextjs,vscode,c,cpp,java,github,aws,bootstrap,netflix,mongodb,figma,pps&perline=14)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,python,nodejs,sql,nextjs,vscode,c,cpp,java,github,aws,bootstrap,mongodb,figma,pps&perline=14)
 
 <hr />
